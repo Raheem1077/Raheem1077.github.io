@@ -1,4 +1,14 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: white;
+}
+
+.container{
+    background-color: rgb(71, 129, 165);
+
+    border-radius: 20px;
+    height: 10vh;
+    width: 95vw;
+
+    margin:auto;
+
 }
